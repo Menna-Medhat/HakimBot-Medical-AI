@@ -20,7 +20,7 @@ The system doesn’t just generate responses — it reasons, validates, and adap
 ## 🧠 Architecture
 
 <p align="center">
-  <img src="screenshots/flow.png" width="900"/>
+  <img src="HakimBot Architecture.png" width="900"/>
 </p>
 
 
