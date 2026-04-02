@@ -19,8 +19,9 @@ The system doesn’t just generate responses — it reasons, validates, and adap
 
 ## 🧠 Architecture
 
-Interactive version:
-👉 [View Architecture](docs/architecture.html)
+<p align="center">
+  <img src="screenshots/flow.png" width="900"/>
+</p>
 
 
 ---
